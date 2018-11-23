@@ -456,7 +456,7 @@
         "framerate_response": "responded that the framerate was",
         "framerate_30": "fixed at 30fps or lower",
         "framerate_fi": "fixed at higher than 30fps",
-        "framerate_va": "variable, dependant on hardware",
+        "framerate_va": "variable, dependent on hardware",
         "resolution": "Resolution",
         "resolution_support": "This game appears to support",
         "resolution_less": "less than __pixels__ resolution",
